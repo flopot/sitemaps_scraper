@@ -5,6 +5,14 @@ from advertools import sitemap_to_df
 # Streamlit app title
 st.title('Sitemap URL Scraper')
 
+# Subtitle
+st.markdown(
+    """
+    by [Intrepid Digital](https://www.intrepidonline.com/)
+    """,
+    unsafe_allow_html=True
+)
+
 # User input for URL
 sitemap_url = st.text_input('Enter the URL of the sitemap', 'https://www.WEBSITE.com/sitemap.xml')
 

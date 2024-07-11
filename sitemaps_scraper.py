@@ -7,7 +7,7 @@ st.markdown(
     """
     <style>
     .reportview-container {
-        background: blue;
+        background: blue !important;
     }
     h1 {
         font-family: sans-serif;

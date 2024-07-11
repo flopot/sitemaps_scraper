@@ -15,6 +15,17 @@ st.markdown(
         line-height: 1.1;
         color: black;
     }
+
+    p, input {
+        font-family: sans-serif;
+        font-weight: 700;
+        line-height: 1.1;
+        color: black;
+    }
+
+    .st-b7, button {
+        background-color: white;
+    }
     </style>
     """,
     unsafe_allow_html=True

@@ -2,30 +2,11 @@ import streamlit as st
 import pandas as pd
 from advertools import sitemap_to_df
 
-# Custom CSS for styling
+# Custom CSS for styling and external stylesheet
 st.markdown(
     """
     <style>
-    .appview-container {
-        background: white;
-    }
-    h1 {
-        font-family: sans-serif;
-        font-weight: 700;
-        line-height: 1.1;
-        color: black;
-    }
-
-    p, input {
-        font-family: sans-serif;
-        font-weight: 700;
-        line-height: 1.1;
-        color: black;
-    }
-
-    .st-b7, button {
-        background-color: white;
-    }
+    @import url('https://intrepiddigstg.wpengine.com/wp-content/cache/perfmatters/intrepiddigstg.wpengine.com/fonts/8f516dc4344f.google-fonts.css');
     </style>
     """,
     unsafe_allow_html=True

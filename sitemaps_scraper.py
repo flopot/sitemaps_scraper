@@ -7,7 +7,7 @@ st.markdown(
     """
     <style>
     .stHeadingWithActionElements,.stMarkdown,.stMarkdownContainer,.st-ae,.st-bd,.st-be,.st-bf,.st-bg,.st-bh,.st-bi,.st-bj,.st-bk,.st-bl,.st-bm,.st-ah,.st-bn,.st-bo,.st-bp,.st-bq,.st-br,.st-bs,.st-bt,.st-bu,.st-ax,.st-ay,.st-az,.st-bv,.st-b1,.st-b2,.st-bc,.st-bw,.st-bx,.st-by{
-        color: black
+        color: black !important
     }
 
     appview-container, button, stApp {

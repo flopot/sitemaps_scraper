@@ -6,13 +6,14 @@ from advertools import sitemap_to_df
 st.markdown(
     """
     <style>
-    body {
-        background-color: white;
+    .reportview-container {
+        background: blue;
     }
-    .title {
+    h1 {
         font-family: sans-serif;
         font-weight: 700;
         line-height: 1.0;
+        color: black;
     }
     </style>
     """,
@@ -20,7 +21,7 @@ st.markdown(
 )
 
 # Streamlit app title
-st.title('Sitemap URL Scraper v2')
+st.title('Sitemap URL Scraper v3')
 
 # Subtitle
 st.markdown(

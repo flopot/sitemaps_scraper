@@ -17,7 +17,6 @@ st.markdown(
     <link rel="stylesheet" id="elementor-pro-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.22.0" media="all" href="https://www.intrepidonline.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.22.0">
     <link rel="stylesheet" id="font-awesome-5-all-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.22.1" media="all" href="https://www.intrepidonline.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.22.1">
     <link rel="stylesheet" id="font-awesome-4-shim-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.22.1" media="all" href="https://www.intrepidonline.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.22.1">
-    <link media="all" onload="this.media='all';this.onload=null;" rel="stylesheet" id="google-fonts-1-css" href="https://www.intrepidonline.com/wp-content/cache/perfmatters/www.intrepidonline.com/fonts/3fc4160e26bd.google-fonts.css">
     <style>
     </style>
     """,

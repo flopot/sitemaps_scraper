@@ -10,7 +10,7 @@ st.markdown(
         color: black
     }
 
-    appview-container, button {
+    appview-container, button, stApp {
         background-color: white
     }
     

@@ -3,7 +3,7 @@ import pandas as pd
 from advertools import sitemap_to_df
 
 # Streamlit app title
-st.title('Sitemap URL Scraper v2')
+st.title('Sitemap URL Scraper')
 
 # Subtitle
 st.markdown(

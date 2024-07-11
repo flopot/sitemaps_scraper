@@ -6,7 +6,6 @@ from advertools import sitemap_to_df
 st.markdown(
     """
     <link rel="stylesheet" id="astra-theme-css-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.6.8" media="all" href="https://www.intrepidonline.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.6.8">
-    <link media="all" onload="this.media='all';this.onload=null;" rel="stylesheet" id="astra-google-fonts-css" href="https://www.intrepidonline.com/wp-content/cache/perfmatters/www.intrepidonline.com/fonts/8f516dc4344f.google-fonts.css">
     <link rel="stylesheet" id="astra-theme-dynamic-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/uploads/astra/astra-theme-dynamic-css-post-7386.css?ver=1720711612" media="all" href="https://www.intrepidonline.com/wp-content/uploads/astra/astra-theme-dynamic-css-post-7386.css?ver=1720711612">
     <link rel="stylesheet" id="additional-styles-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/themes/astra-child/dist/css/astraChild.min.css?ver=1.002" media="all" href="https://www.intrepidonline.com/wp-content/themes/astra-child/dist/css/astraChild.min.css?ver=1.002">
     <link rel="stylesheet" id="astra-addon-css-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/uploads/astra-addon/astra-addon-668f8149383bd2-70380954.css?ver=4.6.8" media="all" href="https://www.intrepidonline.com/wp-content/uploads/astra-addon/astra-addon-668f8149383bd2-70380954.css?ver=4.6.8">

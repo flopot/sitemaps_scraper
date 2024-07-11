@@ -2,6 +2,23 @@ import streamlit as st
 import pandas as pd
 from advertools import sitemap_to_df
 
+# Custom CSS for styling
+st.markdown(
+    """
+    <style>
+    body {
+        background-color: white;
+    }
+    .title {
+        font-family: sans-serif;
+        font-weight: 700;
+        line-height: 1.0;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # Streamlit app title
 st.title('Sitemap URL Scraper')
 

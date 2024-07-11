@@ -20,7 +20,7 @@ st.markdown(
 )
 
 # Streamlit app title
-st.title('Sitemap URL Scraper')
+st.title('Sitemap URL Scraper v2')
 
 # Subtitle
 st.markdown(

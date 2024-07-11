@@ -7,13 +7,13 @@ st.markdown(
     """
     <style>
     .appview-container {
-        background: blue !important;
+        background: white;
     }
     h1 {
         font-family: sans-serif;
         font-weight: 700;
         line-height: 1.1;
-        color: red;
+        color: black;
     }
     </style>
     """,

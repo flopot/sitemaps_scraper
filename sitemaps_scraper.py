@@ -6,14 +6,14 @@ from advertools import sitemap_to_df
 st.markdown(
     """
     <style>
-    .reportview-container {
+    .appview-container {
         background: blue !important;
     }
     h1 {
         font-family: sans-serif;
         font-weight: 700;
-        line-height: 1.0;
-        color: black;
+        line-height: 1.1;
+        color: red;
     }
     </style>
     """,

@@ -15,7 +15,6 @@ st.markdown(
     }
 
     button{
-    border: black;
     background-color: white
     }
 

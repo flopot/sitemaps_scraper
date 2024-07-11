@@ -11,7 +11,7 @@ st.markdown(
     }
 
     appview-container, button, stApp {
-        background-color: white
+        background-color: white !important
     }
     
     </style>

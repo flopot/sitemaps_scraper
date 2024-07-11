@@ -16,7 +16,6 @@ st.markdown(
     <link rel="stylesheet" id="powerpack-frontend-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/plugins/powerpack-lite-for-elementor/assets/css/min/frontend.min.css?ver=2.7.19" media="all" href="https://www.intrepidonline.com/wp-content/plugins/powerpack-lite-for-elementor/assets/css/min/frontend.min.css?ver=2.7.19">
     <link rel="stylesheet" id="elementor-pro-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.22.0" media="all" href="https://www.intrepidonline.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.22.0">
     <link rel="stylesheet" id="font-awesome-5-all-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.22.1" media="all" href="https://www.intrepidonline.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.22.1">
-    <link rel="stylesheet" id="font-awesome-4-shim-css" data-pmdelayedstyle="https://www.intrepidonline.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.22.1" media="all" href="https://www.intrepidonline.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.22.1">
     <style>
     </style>
     """,
